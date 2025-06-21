@@ -23,4 +23,14 @@ GitHub Repo:
 Live Output:
 🌐 Your site is live at https://juveria-28.github.io/experiment3/
 
+Screenshots:
+![image](https://github.com/user-attachments/assets/310c8a08-65e6-4fe3-9049-7b5f18fa6a42)
+
+![image](https://github.com/user-attachments/assets/8e989a45-b3f8-41de-bf17-c5e5e39f9f0f)
+
+![image](https://github.com/user-attachments/assets/e0854e2f-95b9-4f3d-824f-8ee2358eaa22)
+
+![image](https://github.com/user-attachments/assets/776faf82-c454-4dc8-a687-c72c42ba30eb)
+
+
 
